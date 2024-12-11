@@ -48,10 +48,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
 
-<h3 align="center" style="color: #ff79c6;">🔥 GitHub Streak:</h3>
+<div align="center">
+<h3  style="color: #ff79c6;">🔥 GitHub Streak:</h3>
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=radical" alt="adityashharmaa" />
 </p>
+</div>
 
 <h2 align="center">🌐 My Portfolio and Blog</h2>
 

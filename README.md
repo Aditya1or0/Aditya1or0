@@ -40,19 +40,14 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin-bottom: 20px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-<h3  style="color: #ff79c6;">🔥 GitHub Streak:</h3>
-<p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Aditya1or0&theme=radical" alt="adityashharmaa" />
-</p>
+  <h3 align="center" style="color: #ff79c6;">🔥 GitHub Streak</h3>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=radical" alt="adityashharmaa" />
 </div>
 
 <h2 align="center">🌐 My Portfolio and Blog</h2>
@@ -75,3 +70,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya1or0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+

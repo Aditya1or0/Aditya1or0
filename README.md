@@ -71,11 +71,11 @@
 </div>
 
 <h3 align="left">📈 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityashharmaa&show_icons=true&locale=en&layout=compact" alt="adityashharmaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact" alt="adityashharmaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityashharmaa&show_icons=true&locale=en" alt="adityashharmaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en" alt="adityashharmaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityashharmaa&" alt="adityashharmaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&" alt="adityashharmaa" /></p>
 
 <h3 align="left">💬 Let's Chat:</h3>
 <p>If you're interested in collaborating or just want to chat about technology, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/adityashharmaa/), or drop me a message at **adityapandit264@gmail.com**.

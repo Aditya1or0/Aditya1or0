@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">A passionate Software Engineer with a love for building scalable and efficient web applications</h3>
+<h3 align="center">A passionate Full Stack Developer with a love for building scalable and efficient web applications</h3>
 
 <div align="center">
   <img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" alt="Coding" width="400" />
@@ -47,7 +47,7 @@
 
 <div align="center">
   <h3 align="center" style="color: #ff79c6;">🔥 GitHub Streak</h3>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=radical" alt="adityashharmaa" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=radical" alt="Aditya1or0" />
 </div>
 
 <h2 align="center">🌐 My Portfolio and Blog</h2>

@@ -4,8 +4,6 @@
 
 - 📫 How to reach me: **adityapandit264@gmail.com**
 - 🌍 Connect with me: [LinkedIn](https://www.linkedin.com/in/adityashharmaa/)
-- 🚀 Portfolio: [https://aditya-portfolio-teal.vercel.app/](https://aditya-portfolio-teal.vercel.app/)
-- 📝 Blog: [https://adityasharma264.medium.com/](https://adityasharma264.medium.com/)
 
 <h3 align="left">🚀 About Me:</h3>
 <p align="left" style="margin-right: 420px;">
@@ -13,8 +11,6 @@
 </p>
 
 <h3 align="left">🛠️ Technologies and Tools:</h3>
-
-<!-- Adding skills section with grid layout -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 20px;">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -73,20 +69,20 @@
 </div>
 
 <h3 align="left">📈 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact" alt="adityashharmaa" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact" alt="adityashharmaa" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en" alt="adityashharmaa" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en" alt="adityashharmaa" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0" alt="adityashharmaa" />
-</div>
-
-<h3 align="left">💬 Let's Chat:</h3>
-<p>If you're interested in collaborating or just want to chat about technology, feel free to reach out via my <a href="https://www.linkedin.com/in/adityashharmaa/">LinkedIn</a>, or drop me a message at <strong>adityapandit264@gmail.com</strong>.
+<h3 align="left">🔥 GitHub Streak:</h3>
+<p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0" alt="adityashharmaa" />
 </p>
 
+<h3 align="left">🌐 My Portfolio and Blog:</h3>
+<p>
+   Check out my portfolio: [Aditya's Portfolio](https://aditya-portfolio-teal.vercel.app/)  
+   Read my blog: [Aditya's Blog](https://adityasharma264.medium.com/)
+</p>
+
+<h3 align="left">💬 Let's Chat:</h3>
+<p>If you're interested in collaborating or just want to chat about technology, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/adityashharmaa/), or drop me a message at **adityapandit264@gmail.com**.</p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">A passionate Software Engineer with a love for building scalable and efficient web applications</h3>
+<h3 align="center">A passionate Full Stack Developer with a love for building scalable and efficient web applications</h3>
 <img align="right" alt="Coding" width="400" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif"/>
 
 - 📫 How to reach me: **adityapandit264@gmail.com**
@@ -36,29 +36,16 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+  <!-- Updated Express Icon with better contrast -->
   <a href="https://www.shadcn.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="shadcn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <!-- Updated GitHub Icon with better contrast -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
@@ -79,9 +66,16 @@
 </p>
 
 <h3 align="left">🌐 My Portfolio and Blog:</h3>
-<p>
-   Check out my portfolio: [Aditya's Portfolio](https://aditya-portfolio-teal.vercel.app/)  
-   Read my blog: [Aditya's Blog](https://adityasharma264.medium.com/)
+<p align="center">
+  <a href="https://aditya-portfolio-teal.vercel.app/" target="_blank" style="text-decoration: none; color: #4CAF50; font-size: 18px; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/50/4CAF50/portfolio.png" width="40" height="40" alt="Portfolio Icon"/>
+    <span style="font-size: 22px;"> Visit My Portfolio</span>
+  </a>
+  <br><br>
+  <a href="https://adityasharma264.medium.com/" target="_blank" style="text-decoration: none; color: #FF6600; font-size: 18px; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/50/FF6600/medium-logo.png" width="40" height="40" alt="Blog Icon"/>
+    <span style="font-size: 22px;"> Read My Blog</span>
+  </a>
 </p>
 
 <h3 align="left">💬 Let's Chat:</h3>

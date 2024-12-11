@@ -51,7 +51,7 @@
 <div align="center">
 <h3  style="color: #ff79c6;">🔥 GitHub Streak:</h3>
 <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=radical" alt="adityashharmaa" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Aditya1or0&theme=radical" alt="adityashharmaa" />
 </p>
 </div>
 

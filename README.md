@@ -47,7 +47,7 @@
 
 <div align="center">
   <h3 align="center" style="color: #ff79c6;">🔥 GitHub Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=radical" alt="GitHub Streak" />
 </div>
 
 

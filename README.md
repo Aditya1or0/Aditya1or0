@@ -6,18 +6,20 @@
 </div>
 
 <div align="center">
-  <a href="mailto:adityapandit264@gmail.com"><img src="https://img.shields.io/badge/Email-adityapandit264%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/adityashharmaa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:adityapandit264@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adityapandit264%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityashharmaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </div>
 
 <h2 align="center">🚀 About Me</h2>
-
 <p align="center">
   I'm a Full Stack Developer with expertise in both front-end and back-end technologies. I enjoy solving real-world problems through code and constantly improving my skills. I have a keen interest in building user-friendly applications and exploring new technologies. I thrive in collaborative environments and always look for ways to contribute to impactful projects.
 </p>
 
 <h2 align="center">🛠️ Technologies and Tools</h2>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
@@ -39,20 +41,17 @@
 </div>
 
 <h2 align="center">📈 GitHub Stats</h2>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin-bottom: 20px;" />
 </div>
 
+<h3 align="center" style="color: #ff79c6;">🔥 GitHub Streak</h3>
 <div align="center">
-  <h3 align="center" style="color: #ff79c6;">🔥 GitHub Streak</h3>
   <img src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=radical" alt="GitHub Streak" />
 </div>
 
-
 <h2 align="center">🌐 My Portfolio and Blog</h2>
-
 <div align="center">
   <a href="https://aditya-portfolio-teal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
@@ -63,7 +62,6 @@
 </div>
 
 <h2 align="center">💬 Let's Chat</h2>
-
 <p align="center">
   If you're interested in collaborating or just want to chat about technology, feel free to reach out via my <a href="https://www.linkedin.com/in/adityashharmaa/">LinkedIn</a>, or drop me a message at <strong>adityapandit264@gmail.com</strong>.
 </p>
@@ -71,4 +69,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya1or0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-

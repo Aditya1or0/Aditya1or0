@@ -75,11 +75,12 @@ I'm a Full Stack Developer with expertise in both front-end and back-end technol
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=radical" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=radical" alt="GitHub Streak" />
 
 ## 🤝 Open to Collaborate
 

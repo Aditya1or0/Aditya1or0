@@ -19,6 +19,25 @@
   I'm a Full Stack Developer with expertise in both front-end and back-end technologies. I enjoy solving real-world problems through code and constantly improving my skills. I have a keen interest in building user-friendly applications and exploring new technologies. I thrive in collaborative environments and always look for ways to contribute to impactful projects.
 </p>
 
+<h2 align="center">💼 What I'm Currently Working On</h2>
+<p align="center">
+  • Building scalable web applications using Next.js and Node.js<br>
+  • Exploring cloud technologies and microservices architecture<br>
+  • Contributing to open-source projects<br>
+  • Learning about system design and software architecture
+</p>
+
+<h2 align="center">🎯 Key Skills</h2>
+<p align="center">
+  • Frontend Development (React.js, Next.js, HTML5, CSS3)<br>
+  • Backend Development (Node.js, Express.js)<br>
+  • Database Management (MongoDB, MySQL)<br>
+  • RESTful API Design<br>
+  • UI/UX Design Principles<br>
+  • Version Control (Git)<br>
+  • Problem Solving & Algorithms
+</p>
+
 <h2 align="center">🛠️ Technologies and Tools</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -40,6 +59,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </div>
 
+<h2 align="center">🎓 Education & Certifications</h2>
+<p align="center">
+  • Bachelor's Degree in Computer Science<br>
+  • Various technical certifications in web development and software engineering<br>
+  • Continuous learner through online platforms and documentation
+</p>
+
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-bottom: 20px;" />
@@ -60,6 +86,14 @@
     <img src="https://img.shields.io/badge/Blog-Read%20Now-orange?style=for-the-badge&logo=medium" alt="Blog" />
   </a>
 </div>
+
+<h2 align="center">🤝 Open to Collaborate</h2>
+<p align="center">
+  • Interested in contributing to open-source projects<br>
+  • Available for freelance web development projects<br>
+  • Open to discussing new technologies and development practices<br>
+  • Keen to participate in hackathons and coding challenges
+</p>
 
 <h2 align="center">💬 Let's Chat</h2>
 <p align="center">

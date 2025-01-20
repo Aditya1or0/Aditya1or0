@@ -203,7 +203,7 @@ function challenge(arr) {
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=radical" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=tokyonight" alt="GitHub Streak" />
 
 ## 🤝 Open to Collaborate
 

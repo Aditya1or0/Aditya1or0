@@ -51,7 +51,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<div style="transform: scale(1.2);">
+<div style="transform: scale(1.4);">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -61,7 +61,7 @@
 </div>
 
 ### Frameworks & Libraries
-<div style="transform: scale(1.2);">
+<div style="transform: scale(1.4);">
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -73,7 +73,7 @@
 </div>
 
 ### Databases
-<div style="transform: scale(1.2);">
+<div style="transform: scale(1.4);">
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -81,7 +81,7 @@
 </div>
 
 ### Tools & Platforms
-<div style="transform: scale(1.2);">
+<div style="transform: scale(1.4);">
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -107,6 +107,37 @@
 - AWS Academy Cloud Architecting - Certified by AWS Academy
 - Frontend Development - Certified by Udemy
 - Java Programming - Certified by Coursera
+
+</div>
+
+## 💻 Projects
+
+<div style="font-size: 1.1rem;">
+
+### Kharidari (E-commerce Website)
+**Tech Stack:** MERN Stack, Tailwind CSS, Stripe, Razorpay
+
+- Implemented secure user authentication (login, signup, logout) and shopping cart
+- Integrated secure payment gateways using Stripe and Razorpay
+- Built an admin panel with features like adding items, viewing order lists, and managing customer orders
+- Boosted performance from 56% to 88% by converting images to WebP, deferring scripts, lazy loading, and setting explicit dimensions for LCP
+- Added a Chatbot for real-time customer support, improving user engagement and support efficiency
+
+### BgRemover (Background Removal AI SaaS App)
+**Tech Stack:** MERN Stack, Tailwind CSS, Razorpay, Framer Motion
+
+- Implemented user authentication (login, signup) using Clerk
+- Developed a credit system allowing users to earn credits upon sign-up or purchase additional credits via Razorpay
+- Integrated Clipdrop API to enable AI-powered background removal for quick and accurate image processing
+- Enhanced performance, boosting site speed from 51% to 98%
+
+### TripGo (Travel Agency Booking System)
+**Tech Stack:** MERN Stack, Tailwind CSS, Framer Motion
+
+- Developed a full-stack travel booking system for exploring and booking travel packages
+- Created a booking form for customers to input personal details (name, email, phone, number of travelers)
+- Implemented an invoice generation that calculates total price based on package details and travelers
+- Enabled PDF download for easy access to booking invoices and enhanced user experience using Framer Motion
 
 </div>
 

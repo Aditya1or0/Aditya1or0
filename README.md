@@ -24,8 +24,9 @@
 
 <div style="font-size: 1.1rem;">
 
-> [!TIP]
-> **Did you know?** The first computer bug was an actual bug! In 1947, Grace Hopper found a moth causing issues in the Harvard Mark II computer. This is where the term "debugging" originated! 🐛
+## 🤖 AI Coding Facts
+
+<AICodingFacts />
 
 <details>
 <summary>🎯 Random Coding Facts</summary>

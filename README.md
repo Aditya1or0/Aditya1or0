@@ -19,6 +19,61 @@
   I'm a Full Stack Developer with expertise in both front-end and back-end technologies. I enjoy solving real-world problems through code and constantly improving my skills. I have a keen interest in building user-friendly applications and exploring new technologies. I thrive in collaborative environments and always look for ways to contribute to impactful projects.
 </div>
 
+## 🤖 AI-Powered Coding Facts
+
+<div style="font-size: 1.1rem;">
+
+> [!TIP]
+> **Did you know?** The first computer bug was an actual bug! In 1947, Grace Hopper found a moth causing issues in the Harvard Mark II computer. This is where the term "debugging" originated! 🐛
+
+<details>
+<summary>🎯 Random Coding Facts</summary>
+
+1. 🌍 **JavaScript** was created in just 10 days by Brendan Eich in 1995!
+2. 🐍 **Python** was named after Monty Python, not the snake!
+3. 💻 The first programmer in history was a woman - **Ada Lovelace**!
+4. 🎮 The first computer mouse was made of wood!
+5. 🚀 **NASA** still uses code from the 1970s in their spacecraft!
+6. 💾 The first computer virus was created in 1983 as an experiment!
+7. 🌐 **HTML** was created by Sir Tim Berners-Lee while working at CERN!
+8. 🎨 There are over 700 different programming languages!
+
+</details>
+
+<details>
+<summary>🔥 Coding Productivity Tips</summary>
+
+1. **The 90/90 Rule**: 
+   > "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time." 
+   > - Tom Cargill
+
+2. **The Rule of Three**:
+   > When you copy and paste code three times, it's time to refactor!
+
+3. **YAGNI Principle**:
+   > "You Aren't Gonna Need It" - Don't add functionality until you need it!
+
+4. **DRY Code**:
+   > "Don't Repeat Yourself" - Every piece of knowledge should have a single, unambiguous representation!
+
+</details>
+
+<details>
+<summary>🎯 Weekly Coding Challenge</summary>
+
+```javascript
+// Can you solve this in O(n) time complexity?
+function challenge(arr) {
+  // Find the first non-repeating element
+  // Example: [2,3,4,2,3,5,4] → 5
+  // Share your solution on LinkedIn!
+}
+```
+
+</details>
+
+</div>
+
 ## 💼 Current Focus
 
 <div style="font-size: 1.1rem;">

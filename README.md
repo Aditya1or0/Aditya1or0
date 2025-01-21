@@ -199,11 +199,11 @@ function challenge(arr) {
 ## 📊 GitHub Statistics
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=tokyonight" alt="GitHub Streak" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=Aditya1or0&theme=tokyonight" alt="GitHub Streak" />
 
 ## 🤝 Open to Collaborate
 

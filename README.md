@@ -20,7 +20,7 @@
   I'm a Full Stack Developer with expertise in both front-end and back-end technologies. I enjoy solving real-world problems through code and constantly improving my skills. I have a keen interest in building user-friendly applications and exploring new technologies. I thrive in collaborative environments and always look for ways to contribute to impactful projects.
 </div>
 
-## 🤖 AI-Powered Coding Challenge
+## 🤖 Coding Challenge
 
 <AICodingChallenge />
 

@@ -82,6 +82,7 @@ function challenge(arr) {
 - Exploring cloud technologies and microservices architecture
 - Contributing to open-source projects
 - Learning about system design and software architecture
+- Currently learning C# and .NET
 
 </div>
 

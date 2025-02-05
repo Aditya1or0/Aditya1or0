@@ -78,11 +78,11 @@ function challenge(arr) {
 
 <div style="font-size: 1.1rem;">
 
-- Building scalable web applications using Next.js and Node.js
+- Building scalable web applications using React.js and Node.js
 - Exploring cloud technologies and microservices architecture
 - Contributing to open-source projects
 - Learning about system design and software architecture
-- Currently learning C# and .NET
+- Currently learning Redux and Next.js
 
 </div>
 

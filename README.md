@@ -6,7 +6,7 @@
   </blockquote>
 </div>
 
-<img style="width:60%;" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+<img style="width:75%;" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
 
 
 [![Email](https://img.shields.io/badge/Email-adityapandit264%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:adityapandit264@gmail.com)

@@ -174,7 +174,7 @@ function challenge(arr) {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aditya1or0&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1or0&show_icons=true&locale=en&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya1or0&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=tokyonight)
 
 ---
 

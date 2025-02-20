@@ -95,7 +95,7 @@ function challenge(arr) {
 - Node.js, Express.js, Next.js
 
 ### **Databases and Tools**
-- MySQL, MongoDB, Git, GitHub, VS Code
+- MySQL, MongoDB, Firebase, Git, GitHub, VS Code
 
 ---
 

@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-adityapandit264%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:adityapandit264@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityashharmaa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://aditya-portfolio-teal.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-Read%20Now-orange?style=for-the-badge&logo=medium)](https://adityasharma264.medium.com/)
+[![Blog](https://img.shields.io/badge/Blog-Read%20Now-orange?style=for-the-badge&logo=medium)](https://aditya264.medium.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Follow-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/aditya1or0)
 
 ---

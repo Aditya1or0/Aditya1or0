@@ -79,7 +79,7 @@ function challenge(arr) {
 - Exploring **cloud technologies** and **microservices architecture**
 - Contributing to **open-source projects**
 - Learning **system design** and **software architecture**
-- Currently diving into **Redux** and **Next.js**
+- Currently diving into **Typescript** **Redux** and **Next.js**
 
 ---
 

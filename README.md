@@ -86,7 +86,7 @@ function challenge(arr) {
 ## 🎯 Core Competencies
 
 ### **Languages**
-- Java, C++, JavaScript, HTML, CSS
+- Java, C++, JavaScript, TypeScript, HTML, CSS
 
 ### **Frontend Frameworks/Libraries**
 - React.js, Redux Toolkit, Tailwind, Bootstrap, Shadcn-ui

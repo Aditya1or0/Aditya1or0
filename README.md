@@ -179,8 +179,10 @@ function challenge(arr) {
 
 ---
 
-##GitHub Trophies
+## GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=Aditya1or0&theme=onedark)
+
+---
 
 ## 🤝 Open to Collaborate
 

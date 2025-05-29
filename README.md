@@ -1,20 +1,4 @@
-## <img src="https://media.giphy.com/media/LmYKbGS5BVDutEsC7k/giphy.gif" width="30"> Let's Collaborate!
-
-### I'm always excited to work on:
-- **Open Source Projects** - Contributing to the community  
-- **Innovative Web Applications** - Solving real-world problems  
-- **Tech Discussions** - Sharing knowledge and learning  
-- **Hackathons** - Building amazing things in limited time
-
----
-
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=Aditya1or0&style=for-the-badge&color=blue" alt="Profile Views" />
-
-</div># <div align="center">👋 Hi, I'm **Aditya Sharma**</div>
+# <div align="center">👋 Hi, I'm **Aditya Sharma**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -205,10 +189,20 @@ function findFirstNonRepeating(arr) {
 ## <img src="https://media.giphy.com/media/LmYKbGS5BVDutEsC7k/giphy.gif" width="30"> Let's Collaborate!
 
 ### I'm always excited to work on:
-- **Open Source Projects** - Contributing to the community  
-- **Innovative Web Applications** - Solving real-world problems  
-- **Tech Discussions** - Sharing knowledge and learning  
-- **Hackathons** - Building amazing things in limited time
+🔹 **Open Source Projects** - Contributing to the community  
+🔹 **Innovative Web Applications** - Solving real-world problems  
+🔹 **Tech Discussions** - Sharing knowledge and learning  
+🔹 **Hackathons** - Building amazing things in limited time  
+
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Aditya1or0&style=for-the-badge&color=blue" alt="Profile Views" />
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

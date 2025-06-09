@@ -120,10 +120,6 @@ const aditya = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1or0&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1or0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Coding Journey

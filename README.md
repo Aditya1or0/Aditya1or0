@@ -109,19 +109,6 @@ guest@aditya:~$ git log --author="Aditya" --stat
 
 <br>
 
-```bash
-guest@aditya:~$ cat education.md
-```
-
-| | |
-|---|---|
-| 🎓 **B.Tech, Computer Science** | R D Engineering College · 2020–2024 · CGPA 7.37 |
-| 🏫 **Higher Secondary** | Kendriya Vidyalaya · 2020 · CGPA 8.14 |
-| ☁️ **Cloud Architecting** | AWS Academy |
-| 💻 **Frontend Development** | Udemy |
-| ☕ **Java Programming** | Coursera |
-
-<br>
 
 <details>
 <summary><b>guest@aditya:~$ cat notes/dev-philosophy.md</b></summary>
